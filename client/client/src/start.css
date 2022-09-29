@@ -1,0 +1,25 @@
+.Homepage-Container {
+  align-items: center;
+  background: #c70039;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.Homepage-background-image {
+  border-radius: 20px;
+  border: 6px solid black;
+}
+
+.Homepage-button {
+  width: 200px;
+  height: 40px;
+  margin: 30px 20px 10px 20px;
+}
+
+.Homepage-input {
+  width: 200px;
+  height: 40px;
+  margin: 30px 20px 10px 20px;
+}
